@@ -1,0 +1,24 @@
+body {
+  margin: 50px 50px;
+}
+.button {
+  background-color: rgb(240, 157, 127);
+  border: solid 2px rgb(248, 69, 4);
+  border-radius: 25px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+  width: 100px;
+  height: 35px;
+  color: rgb(248, 69, 4);
+}
+.button_click {
+  background-color: rgb(127, 250, 127);
+  border: solid 2px rgb(1, 86, 1);
+  border-radius: 25px;
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+  width: 100px;
+  height: 35px;
+  color: rgb(1, 86, 1);
+}
+.button_click:hover {
+  transform: scale(2);
+}

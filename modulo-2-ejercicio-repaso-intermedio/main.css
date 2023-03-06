@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.coloryellow {
+  background-color: #ffcc00;
+}
+
+.colororange {
+  background-color: #ff9900;
+}
